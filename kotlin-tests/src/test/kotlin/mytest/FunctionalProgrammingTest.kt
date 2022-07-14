@@ -1,0 +1,4 @@
+package mytest
+
+class FunctionalProgrammingTest {
+}
